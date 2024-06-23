@@ -17,6 +17,7 @@ body{
     line-height: normal;
     letter-spacing: 0.167px;
     text-align: center;
+    margin: 0px;
 }
 #intro span{
     color: #4D4F62;
